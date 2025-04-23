@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/64596d35-0f13-4a46-a9a8-2bf6263dd3a8)# EXP1: 4 Bit Adder functionality verification
+# EXP1: 4 Bit Adder functionality verification
 
 ## Aim:
 To write a verilog code for 4bit adder and verify the functionality using Test bench.
